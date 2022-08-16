@@ -2,7 +2,7 @@
 
 ```shell
 brew tap mchmarny/snip
-brew install snip
+brew install mchmarny/snip
 ```
 
 New release will be automatically picked up with `brew upgrade`
